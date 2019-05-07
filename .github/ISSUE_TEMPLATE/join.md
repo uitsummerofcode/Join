@@ -1,7 +1,7 @@
 ---
 name: Join
 about: submit your username or email of Github account
-title: ''
+title: Join Request
 labels: join
 assignees: ''
 
